@@ -1,0 +1,3 @@
+graft seonmul/templates
+graft seonmul/static
+include seonmul/schema.sql
